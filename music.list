@@ -1,0 +1,27 @@
+# (Music)
+# > QQ Music, qq音乐
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,music.qq.com
+DOMAIN-SUFFIX,music.tc.qq.com
+DOMAIN-SUFFIX,qqmusic.qq.com
+DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,y.qq.com
+DOMAIN,aqqmusic.tc.qq.com
+DOMAIN,moo.qq.com
+# > China Music Corp
+DOMAIN-SUFFIX,kuwo.cn
+DOMAIN-SUFFIX,kugou.com
+# > Netease Cloud Music，网易云音乐
+DOMAIN-SUFFIX,music.163.com
+DOMAIN-SUFFIX,music.126.net
+DOMAIN,mam.netease.com
+DOMAIN,api.iplay.163.com
+# > Qianqian Music，千千音乐
+DOMAIN-SUFFIX,qianqian.com
+DOMAIN-SUFFIX,taihe.com
+# > Migu Music，咪咕音乐
+DOMAIN-SUFFIX,migu.cn
+# > Xiaomi，小米音乐
+DOMAIN-SUFFIX,ai.xiaomi.com
+DOMAIN-SUFFIX,music.xiaomi.com
+DOMAIN-SUFFIX,dmhmusic.com
