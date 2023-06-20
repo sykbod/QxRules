@@ -1,2 +1,2 @@
 # QxRules
-个人的QuantumX规则
+个人的Quantumult X规则
