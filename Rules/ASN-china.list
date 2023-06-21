@@ -1,6 +1,7 @@
 # from https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list, policy=DIRECT, tag="🍟 Fries: 🌐 ASN China", enabled=true
 # 使用说明 https://github.com/VirgilClyne/GetSomeFries/wiki/%F0%9F%8C%90-ASN#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E
 
+
 IP-ASN,4134, Mainland
 IP-ASN,4538, Mainland
 IP-ASN,4611, Mainland
