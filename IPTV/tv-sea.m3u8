@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
-https://node3.olelive.com:6443/live/CCTV1HD/hls.m3u8
-https://z02.ubtvfans.com/live/rx1/200/e5159301cd4aaf84a7f39915d463a106/index.m3u8
+https://live.tvfix.org/live/cctv1hd/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 https://z02.ubtvfans.com/live/rx1/2763/d09f8cc20e776c222438f52476bab03a/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
